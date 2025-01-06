@@ -1,4 +1,4 @@
-# Cognitive Mapping
+# Cognitive Mapping I
 
 Take some sketching materials and get into small groups. Draw a "food tour" of some part of the city where you live (or the city where you're from). Your map should include a route to three of your favourite places to get a bite to eat. 
 
