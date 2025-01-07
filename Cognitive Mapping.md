@@ -1,8 +1,8 @@
 # Cognitive Mapping I
 
-Take some sketching materials and get into small groups. Draw a "food tour" of some part of the city where you live (or the city where you're from). Your map should include a route to three of your favourite places to get a bite to eat. 
+Orgazing yourselves into small groups. Grab some pencil crayons and paper. Individually, sketch a "food tour" of some part of the city where you live (or the city where you're from). Your tour should include a route connecting three of your favourite restaurants or places to get food. 
 
-Here are some constraints:
+Constraints and Design Considerations:
 - Spend 10 minutes sketching out your map.
 - You cannot use any text on it - icons and symbols only. Think about what symbols might have meaning.
 - Consider how you will represent movement and direction on the map.
