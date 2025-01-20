@@ -10,7 +10,7 @@ Constraints and Design Considerations:
 - Don't worry about making it look pretty.
 - When you're done, share your map with your group members and ask them whether it makes sense to them.
 
-# Congitive Mapping II: Sketch
+# Cognitive Mapping II: Sketch
 
 We'll do this in groups, but you'll work individually until you're told to focus on group discussion. You can chat with your group members while you're working.
 - Draw Oshawa. Work from memory (in other words, **do not use a map**!). 5 minutes.
@@ -28,3 +28,18 @@ What would you do to make this more engaging or interactive? To make it more inc
 - What additional data "layers" could you add to it (e.g. walking distances; danger zones)?
 
 When you're done, take a photo of your map. Name it Yourlastname.png and put it in the shared drive: /In-Class Exercises/Cognitive Mapping
+
+# Cognitive Mapping III: Classify
+
+Together, we will classify the elements in the maps based on Kevin Lynch's theories. Remember the acronym PEDNL (Paths, Edges, Districts, Nodes, Landmarks). Here's a visual reference: 
+![PEDNL](Images/pednl.png?raw=true)
+
+While scanning through them, we want to examine which elements are common. Some questions we can ask:
+- Are car paths more common than footpaths?
+- Are the edges natural or human-made?
+- What sorts of districts turn up? Campuses? Downtown cores? Tourist zones?
+- Are the nodes and intersections linked to human or machine paths?
+- Do we see any landmarks? Are they natural or human-made? Are they also attractions?
+- Does the orientation of the map tell us anything?
+
+If you like, use a Google Drawing or Miro board to collect ideas or annotate on existing maps. What we're doing is, following Lynch, creating an "image" of the city.
