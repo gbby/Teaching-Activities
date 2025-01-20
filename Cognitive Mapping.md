@@ -32,6 +32,7 @@ When you're done, take a photo of your map. Name it Yourlastname.png and put it 
 # Cognitive Mapping III: Classify
 
 Together, we will classify the elements in the maps based on Kevin Lynch's theories. Remember the acronym PEDNL (Paths, Edges, Districts, Nodes, Landmarks). Here's a visual reference: 
+
 ![PEDNL](Images/pednl.png?raw=true)
 
 While scanning through them, we want to examine which elements are common. Some questions we can ask:
