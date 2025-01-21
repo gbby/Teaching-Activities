@@ -70,15 +70,16 @@
 
 # Chart Selection Tools
 
-- http://chartchoosercards.com/
-- https://policyviz.com/2014/09/09/graphic-continuum/
-- https://www.data-to-viz.com/
-- http://datavizproject.com/
-- http://www.datavizcatalogue.com/
-- http://ft-interactive.github.io/visual-vocabulary/
-- http://www.vizwiz.com/2018/07/visual-vocabulary.html
-- https://python-graph-gallery.com/
-- http://www.storytellingwithdata.com/chart-guide
+- From Data to Viz https://www.data-to-viz.com/
+- The Python Graph Gallery https://python-graph-gallery.com/
+- Storytelling With Data Chart Guide http://www.storytellingwithdata.com/chart-guide
+- Data Viz Project http://datavizproject.com/
+- The Data Visualization Catalogue http://www.datavizcatalogue.com/
+- Graphic Continuum https://policyviz.com/2014/09/09/graphic-continuum/
+- Visual Vocabulary http://ft-interactive.github.io/visual-vocabulary/
+- Tableau Visual Vocabulary http://www.vizwiz.com/2018/07/visual-vocabulary.html
+- Vega Visual Vocabulary https://gramener.github.io/visual-vocabulary-vega/
+- Chart chooser cards http://chartchoosercards.com/
 - Decent article explaining different chart types: https://towardsdatascience.com/top-16-types-of-chart-in-data-visualization-196a76b54b62
 - Article on the pros and cons of taxonomies: https://medium.com/nightingale/the-pros-and-cons-of-chart-taxonomies-5c8e094578c4
 - Article on expert choices: https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc
