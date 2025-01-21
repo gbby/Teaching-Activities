@@ -1,4 +1,4 @@
-# Cognitive Mapping I: Introduction
+# 1: Introduction to Cognitive Mapping
 
 Organize yourselves into small groups. Grab some pencil crayons and paper. Individually, sketch a "food tour" of some part of the city where you live (or the city where you're from). Your tour should include a route connecting three of your favourite restaurants or places to get food. 
 
@@ -10,7 +10,7 @@ Constraints and Design Considerations:
 - Don't worry about making it look pretty.
 - When you're done, share your map with your group members and ask them whether it makes sense to them.
 
-# Cognitive Mapping II: Sketch
+# 2: Sketch
 
 We'll do this in groups, but you'll work individually until you're told to focus on group discussion. You can chat with your group members while you're working.
 - Draw Oshawa. Work from memory (in other words, **do not use a map**!). 5 minutes.
@@ -29,13 +29,24 @@ What would you do to make this more engaging or interactive? To make it more inc
 
 When you're done, take a photo of your map. Name it Yourlastname.png and put it in the shared drive: /In-Class Exercises/Cognitive Mapping
 
-# Cognitive Mapping III: Classify
+# 3: Digitize
 
-Together, we will classify the elements in the maps based on Kevin Lynch's theories. Remember the acronym PEDNL (Paths, Edges, Districts, Nodes, Landmarks). Here's a visual reference: 
+Learning to work with Google's mapping/GIS platforms will give you very powerful options to create digital maps. While I would normally recommend using Google's My Maps platform, you will not be able to access it with your .net address. Instead, we can use Google Earth, which is considerably more powerful. 
+- Sign in at https://earth.google.com/
+- Add a New Project
+- Add and label placemarks
+- Add a path
+- Add a polygon to cluster a bunch of placemarks
+- Try the slideshow option
+- Export a .kml file and load it in another tool like https://geojson.io/ or QGIS (drag it into your layers panel)
+
+# 4: Classify
+
+Get in groups of 5, find the maps that you produced last week, and put them in a sub-folder. Together, you will classify the elements in the maps based on Kevin Lynch's theories. Remember the acronym PEDNL (Paths, Edges, Districts, Nodes, Landmarks). Here's a visual reference: 
 
 ![PEDNL](Images/pednl.png?raw=true)
 
-While scanning through them, we want to examine which elements are common. Some questions we can ask:
+While analyzing your maps, you will want to examine which elements are common. Add a new document in your sub-folder for taking notes, and start to organize them based on the following sample questions. If you like, use a Google Drawing or Miro board to collect ideas or annotate on existing maps.
 - Are car paths more common than footpaths?
 - Are the edges natural or human-made?
 - What sorts of districts turn up? Campuses? Downtown cores? Tourist zones?
@@ -43,4 +54,15 @@ While scanning through them, we want to examine which elements are common. Some 
 - Do we see any landmarks? Are they natural or human-made? Are they also attractions?
 - Does the orientation of the map tell us anything?
 
-If you like, use a Google Drawing or Miro board to collect ideas or annotate on existing maps. What we're doing is, following Lynch, creating an "image" of the city.
+What we're doing is, following Lynch, creating an "image" of the city.
+
+# 5: Instruct
+Your goal in this step will be to understand how movement works in your image. In order to do this, you will attempt to train a machine to navigate it. First, you will want to trace a path on your initial sketch - Point A to Point Z, with any number of points marked out along the way. Next, imagine that you need to guide a delivery robot to follow the route on your map (For reference, see http://drtechniko.com/how-to-train-your-robot/). Give it basic instructions (e.g. "turn left"; "pause"). Think about the following questions:
+- What will it need to know? 
+- What is its starting point? 
+- Can you use abstraction? 
+- What obstacles might it face? 
+- How does a robot "see" the world? 
+
+# 6: Experience
+Sometime soon, try to walk or travel your route and then re-draw your map afterwards. Does your embodied perception of space and time change the graphic? How does your updated version compare to the one you drew from memory?
