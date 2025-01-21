@@ -1,23 +1,25 @@
-# 1: Introdcution to QGIS
+# 1: Introduction to QGIS
 
 QGIS is a free, open-source, user-friendly GIS application that we will use throughout the semester. This is a very basic map-making exercise. Our goal is to create a kind of map that I showed in my slides \- a population density “choropleth” map. A choropleth map (from the Greek choros 'area/region' and plethos 'multitude') is a type of thematic map in which a set of predefined areas (like provincial or regional boundaries) is coloured or patterned in proportion to a statistical variable that represents an aggregate summary of a characteristic within each area. Commonly used variables are population density, per-capita income, COVID cases by public health unit, etc.
 
-- Download it from https://qgis.org/download/ and follow the installation instructions for your operating system. You can explore alternatives to QGIS here [https://alternativeto.net/software/quantum-gis/](https://alternativeto.net/software/quantum-gis/)
+- Download it from https://qgis.org/download/ and follow the installation instructions for your operating system. You can explore alternatives to QGIS here https://alternativeto.net/software/quantum-gis/
 - Go to https://opendata.durham.ca/ and explore the various open data offerings from the Regional Municipality of Durham. 
  - Select the "Health" category and search for "Health Neighbourhoods," which is a comprehensive dataset with public health-related metrics for each census neighbourhood in the region. One item will be a map service that can be downloaded in GeoJSON, Shapefile, and Comma-Separated Values formats. The other will be a data table that can be downloaded in the same formats. 
  - Open the map service and download it in Shapefile format. A shapefile will come in a .zip bundle, and will contain data, boundary information, and more. You can learn more about shapefiles here: https://en.wikipedia.org/wiki/Shapefile
 - Open QGIS and create a New Empty Project. 
 - Add an OpenStreetMap layer from XYZ Tiles in the Browser window.
 - You should be able to simply drag your shapefile bundle into the Layers window, but you could also use Layer -> Add Layer -> New Vector Layer.
-- QGIS will prompt you to transform your layer from the NAD83 coordinate reference system to WGS 84. Accept this.
+- QGIS will prompt you to transform your layer from the NAD83 coordinate reference system to WGS84. Accept this.
 - Right-click the Health Neighbourhoods layer and open the attribute table. Explore it.
 
 # 2: Data Collection
 
-- First off, we will need to get a boundary shapefile from Stats Canada. A shapefile is a simple, nontopological geospatial vector data format for storing the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas). We'll use this link [https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)
+What we'll be doing now is making a choropleth map using Canadian population data. Population data is a great starting point, as most of the relevant "per capita" statistical measures we use, from crime stats to life expectancy to the unemployment rate to rates of cardiovascular disease, start with population statistics.
+
+- First off, we will need to get a boundary shapefile from Stats Canada. A shapefile is a simple, nontopological geospatial vector data format for storing the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas). We'll use this link https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21
   - Select .shp format, and pick the cartographic boundary file for provinces and territories under "administrative boundaries" (although I recommend that you check out the other shapefiles as well).
   - Download the compressed file and move it to a project folder.
-- Next, we need to get population estimates taken from quarterly demographic estimates by Stats Can. We'll download from here [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901)
+- Next, we need to get population estimates taken from quarterly demographic estimates by Stats Can. We'll download from here https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
   - We only need one column, so apply the same quarter in the "From" and "To" boxes. Download as displayed, then open up in Excel or Google Sheets and clear all the garbage. Remove rows 1-11 and all rows after Nunavut. Get rid of the 5 after NWT and Nunavut. Insert a header row and name column A "province" and column B "population." Save as .csv
   
 # 3: Load and Join the Data
