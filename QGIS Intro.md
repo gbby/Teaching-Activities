@@ -20,7 +20,7 @@ What we'll be doing now is making a choropleth map using Canadian population dat
   - Select .shp format, and pick the cartographic boundary file for provinces and territories under "administrative boundaries" (although I recommend that you check out the other shapefiles as well).
   - Download the compressed file and move it to a project folder.
 - Next, we need to get population estimates taken from quarterly demographic estimates by Stats Can. We'll download from here https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
-  - We only need one column, so apply the same quarter in the "From" and "To" boxes. Download as displayed, then open up in Excel or Google Sheets and clear all the garbage. Remove rows 1-11 and all rows after Nunavut. Get rid of the 5 after NWT and Nunavut. Insert a header row and name column A "province" and column B "population." Save as .csv
+  - We only need one column, so apply the same quarter in the "From" and "To" boxes. Download "as displayed (exluding accompanying symbols)," then open up in Excel or Google Sheets and clear all the garbage. Remove rows 1-11 and all rows after Nunavut. Get rid of the 5 after NWT and Nunavut. Insert a header row and name column A "province" and column B "population." Save as .csv
   
 # 3: Load and Join the Data
 
