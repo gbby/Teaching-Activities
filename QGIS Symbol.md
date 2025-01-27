@@ -31,4 +31,8 @@ In this exercise, we're going to create a proportional symbol map. In week three
 - Select Simple Marker. In the Size row, click on the little box on the far right side of the window. A drop down will open. Select Assistant. In the Source tab, select the values option. Press the blue-ish refresh button. Select Ok. Press Apply and then Ok, and then watch your map populate with proportional symbols.
 - Go back to Properties/Symbology and change the colours following the same logic as above.
 - Consider changing symbols, opacity, etc.
+
+# 5: Explore 3D
+
+- Turn your original shapefile layer back on. Open 3D View and set it to Single Symbol. Set Extrusion to values using the same process as above. Add a 3D Map View in the View menu at the top. Expect it to look ugly. 
 - Where do you go from here, given that we've only scratched the surface with QGIS? YouTube! There are lots of good QGIS tutorials out there. You should be able to find everything you need on YouTube and Stack Overflow. Just make sure that they're fairly recent.
