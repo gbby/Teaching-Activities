@@ -35,4 +35,4 @@ In this exercise, we're going to create a proportional symbol map. In week three
 # 5: Explore 3D
 
 - Turn your original shapefile layer back on. Open 3D View and set it to Single Symbol. Set Extrusion to values using the same process as above. Add a 3D Map View in the View menu at the top. Expect it to look ugly. 
-- Where do you go from here, given that we've only scratched the surface with QGIS? YouTube! There are lots of good QGIS tutorials out there. You should be able to find everything you need on YouTube and Stack Overflow. Just make sure that they're fairly recent.
+- Where do you go from here, given that we've only scratched the surface with QGIS? YouTube! There are lots of good QGIS tutorials out there. You should be able to find everything you need on YouTube and Stack Overflow. Just make sure that they're fairly recent. More information on 3D layers in QGIS can be found here: https://docs.qgis.org/3.34/en/docs/user_manual/style_library/3d_symbols.html
