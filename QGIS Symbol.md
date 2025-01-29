@@ -15,15 +15,14 @@ In this exercise, we're going to create a proportional symbol map. In week three
 - It’s very easy to make mistakes combining and exporting different file types (e.g. .shp and .csv) in QGIS, so you can always do your filtering beforehand in a spreadsheet application. If you didn't filter before downloading, open the .csv in your application of choice (e.g. Excel) and filter for "Life Expectancy in Males" in the INDICATORNAME column and "2009-2013" in the YEAR column. Save this new table to a file called life.csv
 - Open QGIS and create a new project.
 - Add your .shp layer by dragging the .zip file into the Layers panel.
-- Drag your .csv dataset into the Layers panel or import it as a delimited text layer.
+- Go to Layer/Add Layer/Add Delimited Text Layer and add your .csv dataset with "Detect field types" checked on.
 - Note: *Sometimes, your numerical values will be in "string" format. You can correct this by right-clicking the .csv layer and selecting "Toggle Editing." Open the attribute table. Click in the first cell of the VALUE column. Press ctrl-I to open the Field Calculator. Make sure that "Create a New Field" is toggled. In "Output field name," write values. Make sure the field type is set to integer. Set the output field length to 2. In the middle column, open the "Fields and Values" drop-down. Double-click on VALUE so that it populates the left column. Click Ok and save your edits. Check that a new column called "values" has been added to your attribute table.*
 - In the browser window on the left, open up XYZ tiles and double click OpenStreetMap. This will add a base map layer. Move it below the other two layers in the order.
-- Right click your shapefile layer, open up Properties, and select Joins. Press the \+ symbol. Select life as your Join Layer, "MUNICIPAL_ID" as your Join Field, and "MUNICIPAL_" as your Target Field. Check Custom field name prefix and remove the text. Press Ok, Apply, and then Ok. Open the Attribute Table of your .shp layer and inspect. Rename your layer to "life."
-- With the life layer selected, go into the menu bar, select Vector/Geometry Tools/Centroids, and pick your joined health neighbourhoods shapefile as the input layer. Check "Create centroid for each part" and Run.
+- Right click your vector (shapefile) layer, open up Properties, and select Joins. Press the \+ symbol. Select life as your Join Layer, "MUNICIPAL_ID" as your Join Field, and "MUNICIPAL_" as your Target Field. Check Custom field name prefix and remove the text. Press Ok, Apply, and then Ok. Open the Attribute Table of your vector layer and inspect. 
+- With the vector layer selected, go into the menu bar, select Vector/Geometry Tools/Centroids, and pick your vector as the input layer. Check "Create centroid for each part" and Run.
 - With the Centroids layer selected, go into the menu bar, select Processing/Toolbox, and then search for Add X/Y fields to layer. Select Centroids as the input layer and set the coordinate system to EPSG:4326. Run.
 - Right-click the new Added Fields layer, go to Export/Save Features As, and output it to an Esri Shapefile with the name life.
-- Compress/zip the files into a single file called life.zip if they're not already compressed.
-- Uncheck all layers except the life shape layer and the basemap.
+- Uncheck all layers except the original vector layer and the basemap.
 
 # 4: Visualize
 
