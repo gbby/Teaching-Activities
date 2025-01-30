@@ -16,9 +16,6 @@
 
 - Mode https://modeanalytics.com/
 - Truben table editor https://truben.no/table/
-
-## Dashboards
-
 - Plotly Dash https://plot.ly/dash/
 - Apache's superset tool for dashboards http://superset.apache.org/
 
@@ -28,16 +25,18 @@
 - Canva https://www.canva.com/
 - Loopy http://ncase.me/loopy/
 
-## Geospatial Visualization
-
-- Tilegrams https://pitchinteractiveinc.github.io/tilegrams/
-- Morphocode https://explorer.morphocode.com/
-- Leafmap https://github.com/giswqs/leafmap\#welcome-to-leafmap
-
 ## Storytelling
 
 - Inform http://inform7.com/
 - Knightlab tools https://knightlab.northwestern.edu/projects/
+- Vev https://www.vev.design/scrollytelling/
+
+## Storyboarding
+
+- Miro (search for storyboard) https://miro.com/app/dashboard/
+- Figma https://www.figma.com/templates/storyboard-template/
+- Canva https://www.canva.com/templates/?query=storyboard-template
+- Storyboarder https://wonderunit.com/storyboarder/
 
 ## 3D
 
@@ -94,6 +93,10 @@
 
 ## General
 
+- Tilegrams https://pitchinteractiveinc.github.io/tilegrams/
+- Morphocode https://explorer.morphocode.com/
+- Leafmap https://github.com/giswqs/leafmap\#welcome-to-leafmap
+- Census Mapper https://censusmapper.ca/
 - Exhaustive list of geospatial resources https://www.reddit.com/r/MapPorn/wiki/howtomakemaps
 - Cartography guide https://www.axismaps.com/guide
 - Exhaustive list of geospatial data sources https://vlckel.notion.site/vlckel/a360dea317234868a0f7cfb1ef249843?v=2923f79780214ec390b9f0fefbc1c002
