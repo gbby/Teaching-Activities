@@ -44,6 +44,12 @@
 - Python library for .stl files https://github.com/WoLpH/numpy-stl
 - Tinkercad https://www.tinkercad.com/
 
+## Colour
+
+- Guide to colour for visualization https://blog.datawrapper.de/colorguide/
+- Color Buddy https://color-buddy.netlify.app/
+- Regenbogen palettes for visualization https://simson.io/regenbogen/
+
 ## Miscellaneous
 
 - Visual statistics on digital texts http://voyant-tools.org/
@@ -110,36 +116,58 @@
 
 # Open Data Sources
 
-A good definition of Open Data comes from the European Data Portal: Open data is data that anyone can access, use and share. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.
+## Public Open Data
 
 - Government of Canada https://open.canada.ca/en/open-data
 - Government of Ontario https://data.ontario.ca/
 - Durham Region https://opendata.durham.ca/
 - City of Toronto https://open.toronto.ca
+- Canadian Open Data https://github.com/opennorth
+- Canadian Time Use Survey http://www.statcan.gc.ca/eng/survey/household/4503
 - US Census Bureau https://www.census.gov/data.html
 - US Government https://www.data.gov/
 - US Department of Health and Human Services https://healthdata.gov/
+- American Time Use Survey https://www.bls.gov/tus/
 - US Environmental Information https://www.ncdc.noaa.gov/data-access
+- Data USA https://datausa.io/
 - UK Government https://data.gov.uk/
 - European Union https://data.europa.eu/euodp/en/data
 - World Bank https://data.worldbank.org/
 - WHO Global Health Repository https://www.who.int/data/gho/
 - African Development Bank https://dataportal.opendataforafrica.org/
 - Humanitarian Data Exchange https://data.humdata.org/
+- OECD Better Life Index https://www.oecdbetterlifeindex.org/
 - CIA World Factbook https://www.cia.gov/the-world-factbook/
-- Data Portals http://dataportals.org/
-- Google Public Data https://www.google.com/publicdata/directory
+- List of Public Data Sources https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit
+- Awesome Public Datasets https://github.com/caesar0301/awesome-public-datasets
+
+## Open Data Portals and Tools
+
 - Google Dataset Search https://datasetsearch.research.google.com/
+- Google Public Data https://www.google.com/publicdata/directory
+- Data Portals http://dataportals.org/
+- The Data Liberation Project https://www.data-liberation-project.org/
 - Amazon Registry of Open Data https://registry.opendata.aws/
 - Kaggle https://www.kaggle.com/datasets
 - FiveThirtyEight https://data.fivethirtyeight.com/
 - DBpedia https://www.dbpedia.org
-- Data world https://data.world/
+- DataHub https://datahub.io/
+- Data World https://data.world/
+- Net Data Directory http://netdatadirectory.org/
 - Datausa https://datausa.io/
 - OpenCorporates https://opencorporates.com/
 - Earth Observation https://earthdata.nasa.gov/earth-observation-data
 - Earth Engine https://developers.google.com/earth-engine/datasets/
-- American Time Use survey https://www.bls.gov/tus/
-- Urbanization datasets https://esa.un.org/unpd/wup/Download/
-- Gapminder health https://www.gapminder.org/data/
-- Global database of events language and tone http://gdeltproject.org/
+- Urbanization Datasets https://esa.un.org/unpd/wup/Download/
+- Gapminder Health https://www.gapminder.org/data/
+- Global Database of Events Language and Tone http://gdeltproject.org/
+
+## Misc
+
+- Sports Data for R http://analyticsplaybook.org/api/stattleship.html
+- NBA Data for Python https://github.com/seemethere/nba_py
+- Reddit Comments https://github.com/qxf2/wisdomofreddit and https://www.reddit.com/r/bigquery/wiki/datasets/
+- Trump Twitter Archive https://www.thetrumparchive.com/faq
+- Cultural Heritage APIs http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs
+- Museum of Modern Art Data https://github.com/MuseumofModernArt/collection
+- Article on the Best Free Open Data Sources https://medium.com/free-code-camp/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d
