@@ -27,8 +27,8 @@ We're going to try to replicate what we did in QGIS. Here are the basic steps:
 
 # 4: Alternatives
 
-An elegant, fast alternative to what we've done in QGIS and Foursquare is Datawrapper, which some of you will be familiar with from my other course. Using it, we can make choropleth and symbol maps, as well as annotated journey maps. It is very easy to use, but not as robust or flexible as the more detailed GIS tools we've already learned. We'll make a quick symbol map.
-- Go to https://www.datawrapper.de/maps
+When you want to create simple, web-based maps or prototype ideas, a great alternative to QGIS and Foursquare is Datawrapper (which some of you will be familiar with from my other course). Using it, we can make choropleth and symbol maps, as well as annotated journey maps. It is very easy to use, but not as robust or flexible as the more detailed GIS tools we've already learned. Here, we'll make a quick symbol map.
+- Go to https://www.datawrapper.de/maps and make a symbol map.
 - Upload the health.geojson file I've put in the Shared Drive.
 - For data, upload the life.csv. It should recognize the x and y columns as lon and lat. 
 - Set the size and colour to VALUE.
