@@ -45,6 +45,16 @@ Now that we know how to use Datawrapper to begin an exploration into a research 
 
 # Exploring Alternatives and Possibilities
 
+There are various tools you might use - Power BI, Tableau, Raw, Figma - to create visuals and prototype data stories. Be sure to consult the Resources page for examples. 
+
+## Knight Lab
+
+- If I know I'm going to be focusing on interactive stories in the browser and/or scrollytelling, KnightLab at Northwestern University has developed a bunch of great prototyping tools https://knightlab.northwestern.edu/projects/
+- Let's try to translate our personalized story concepts and personas into a story map. Take a single thread related to recent newcomers from one of the four datasets we looked at in the *Dataset Biography* exercise. Develop a few charts that illuminate aspects of that thread, building on the ideas you came up with in the *Finding a Personal Story* exercise. Develop a story around 1 or more *Personas* you've created, and then lay it out in a basic StoryMap using Knightlab's StoryMapJS tool https://storymap.knightlab.com/
+- You can also use http://storyline.knightlab.com/ if you have historical data you can work with.
+
+## ChatGPT
+
 - Now, let's leverage ChatGPT to explore new directions. Log in to https://chatgpt.com/
 - Attach your larger data file and feed it a prompt like this: "Given the attached data, what would be some interesting queries that would generate data-driven insights?" When it asks whether you want to run the analyses, consider starting a Colab file to run the Python code that it generates.
 - Follow that with a prompt like this: "What would be some interesting visualizations that would help illuminate these insights?"
@@ -60,4 +70,4 @@ Now that we know how to use Datawrapper to begin an exploration into a research 
 - Go through the Chart Selection tools and find 3 appropriate chart types to explore your data visually and communicate its insights.
 - Make these charts in Flourish. Publish them to Canva.
 - Use them to storyboard an interesting data story in Canva.
-- Ask ChatGPT (or a similar tool) to assist with your process, but don't rely on it exclusively. Be creative! 
+- Ask ChatGPT (or a similar tool) to assist with your process, but don't rely on it exclusively. Be creative!
