@@ -30,3 +30,17 @@ Unless you are already a Unity wizard, you will need to configure scenes based o
 - We can procedurally generate assets. This is great for custom animated data visualizations.
 
 What should you do over the break is go to https://learn.unity.com/ and try a few different tutorials.
+
+# 4. Install and Try Some SDKs
+
+- Mapbox AR https://www.mapbox.com/unity
+- Google Geospatial Creator https://developers.google.com/ar/geospatialcreator
+
+# 5. Configure a Basic AR Scene
+
+- Ensure that you've got Android Build Support, Open JDK, and Android SDF and NDK Tools added. If you didn't add these when you installed Unity, you can click on the gear next to the Unity editor version in the Hub to add them.
+- Create an AR Mobile project.
+- Read through this page: https://docs.unity3d.com/Packages/com.unity.template.ar-mobile@1.0/manual/index.html
+- Follow the instructiosn on this page: https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation
+- Here's a video walkthrough: https://www.youtube.com/watch?v=JnLzoXETbWs
+- Sample templates can be found here: https://github.com/Unity-Technologies/arfoundation-samples
