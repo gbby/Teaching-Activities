@@ -46,6 +46,12 @@ In order to make use of more extensive 3D assets, we'll use a different Blender 
 - Add 3D buildings from OpenStreetmap. Consider importing them as separate objects if you want to work with them individually.
 - A full tutorial can be found here (even if it's a bit dated): https://www.youtube.com/watch?v=ZsLMt3Ka8UA
 
+We can also use the Blosm plugin to build assets using Google Maps tiles.
+
+- In your Blender preferences, go to Blosm and click Get It for the Google 3D Tiles Key. You'll need to use your regular gmail, as Ontario Tech's gmail will not allow you to create a key.
+- Once you have the API key, input it into the slot in your Blosm preferences.
+- Follow all of the instructions here: https://github.com/vvoovv/blosm/wiki/Import-of-Google-3D-Cities
+
 # 5: 3D Printing
 
 We can explore preparing our 3D map for physicalization via a 3D printer. Depending on the printer you have available, you will use different slicing software. In my case, I use Cura, and most of the printers you encounter, including the ones in the library, probably will as well, so you can download Ultimaker Cura to see what it might look like if you were to 3D print it. 
