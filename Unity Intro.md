@@ -44,3 +44,17 @@ What should you do over the break is go to https://learn.unity.com/ and try a fe
 - Follow the instructiosn on this page: https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation
 - Here's a video walkthrough: https://www.youtube.com/watch?v=JnLzoXETbWs
 - Sample templates can be found here: https://github.com/Unity-Technologies/arfoundation-samples
+
+# 6. Configure for the Meta Quest SDK
+
+- Create a 3D Core project.
+- For developing extended reality content, we can either use the Unity XR Interaction Toolkit or the Meta XR SDK. We'll use the Meta XR SDK.
+- Go to the Unity AssetStore and install the Meta XR All-in-One SDK at https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657 and open it in Unity. You will need to install it in the Package Manager window that opens, and will then need to restart your editor. Once you do, you can find the SDK in the Packages folder of the Project Tab. 
+- Open the File/Build Profiles window. Under Platform, select Android and then press the Switch Platform button.
+- Open Edit/Project Settings, and select XR Plug-in Management. 
+- Install XR Plugin Management. In the Windows, Mac, and Linux Settings tab, select either Oculus or Open XR (we'll use Open XR). 
+- Open Meta/Tools/Project Setup Tool. Make sure that any outstanding errors are fixed and apply any additional changes. 
+- Go to Meta/Tools/Building Blocks and start exploring.
+- When you have a scene that you like, save it and add it to your Build Settings.
+- Connect a previously configured Quest 3. Make sure it is set to the device you plan to build to. Click Build and Run.
+- More details can be found here: https://unity.com/blog/engine-platform/get-started-developing-for-quest-3-with-unity and https://developers.meta.com/horizon/documentation/unity/unity-development-overview/
