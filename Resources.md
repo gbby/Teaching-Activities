@@ -48,6 +48,18 @@
 - Guide to colour for visualization https://blog.datawrapper.de/colorguide/
 - Color Buddy https://color-buddy.netlify.app/
 - Regenbogen palettes for visualization https://simson.io/regenbogen/
+- Adobe Color Wheel https://color.adobe.com/create/color-wheel/ 
+- Viz Palette https://projects.susielu.com/viz-palette 
+- I Want Hue https://medialab.github.io/iwanthue/ 
+- Color Brewer https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 
+- Color Converter http://colormine.org/color-converter 
+- Flat UI Colors https://flatuicolors.com/ 
+- Colorgorical http://vrl.cs.brown.edu/color 
+- Wes Anderson palettes:
+  - https://wesandersonpalettes.tumblr.com/ 
+  - https://jiffyclub.github.io/palettable/wesanderson/ 
+  - https://vimeo.com/182987900 
+  - https://www.youtube.com/watch?v=UMxTOoCQGzM 
 
 ## Miscellaneous
 
@@ -81,13 +93,14 @@
 - Data Viz Project http://datavizproject.com/
 - The Data Visualization Catalogue http://www.datavizcatalogue.com/
 - Graphic Continuum https://policyviz.com/2014/09/09/graphic-continuum/
-- Visual Vocabulary http://ft-interactive.github.io/visual-vocabulary/
+- Visual Vocabulary http://ft-interactive.github.io/visual-vocabulary/ and https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary
 - Tableau Visual Vocabulary http://www.vizwiz.com/2018/07/visual-vocabulary.html
 - Vega Visual Vocabulary https://gramener.github.io/visual-vocabulary-vega/
 - Chart chooser cards http://chartchoosercards.com/
 - Decent article explaining different chart types: https://towardsdatascience.com/top-16-types-of-chart-in-data-visualization-196a76b54b62
 - Article on the pros and cons of taxonomies: https://medium.com/nightingale/the-pros-and-cons-of-chart-taxonomies-5c8e094578c4
 - Article on expert choices: https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc
+- Great YouTube series on chart types: https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
 
 # Geospatial Tools and Resources
 
