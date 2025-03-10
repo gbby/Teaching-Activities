@@ -31,25 +31,27 @@ Unless you are already a Unity wizard, you will need to configure scenes based o
 
 What should you do over the break is go to https://learn.unity.com/ and try a few different tutorials.
 
-# 4. Install and Try Some SDKs
-
-- Mapbox AR https://www.mapbox.com/unity
-- Google Geospatial Creator https://developers.google.com/ar/geospatialcreator
-
-# 5. Configure a Basic AR Scene
+# 4. Set up a Basic AR or VR Scene
 
 - Ensure that you've got Android Build Support, Open JDK, and Android SDF and NDK Tools added. If you didn't add these when you installed Unity, you can click on the gear next to the Unity editor version in the Hub to add them.
 - Create an AR Mobile project.
 - Read through this page: https://docs.unity3d.com/Packages/com.unity.template.ar-mobile@1.0/manual/index.html
-- Follow the instructiosn on this page: https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation
-- Here's a video walkthrough: https://www.youtube.com/watch?v=JnLzoXETbWs
+- AR Foundation is a package for Unity that lets you develop AR apps for Android and iOS It is a good starting point. Follow the instructions on this page: https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation
+- Here are some decent, if a bit dated, video tutorials:
+  - https://www.youtube.com/watch?v=R3OCUE9TwZk
+  - https://www.youtube.com/watch?v=JnLzoXETbWs
+  - https://www.youtube.com/watch?v=2SsOmnkfA3c
+  - https://www.youtube.com/watch?v=gpaq5bAjya8
 - Sample templates can be found here: https://github.com/Unity-Technologies/arfoundation-samples
+- Read the docs and follow the steps in this tutorial to get set up for VR development in Unity: https://docs.unity3d.com/Manual/VROverview.html
+- Here's a quickstart tutorial for creating scenes with Valve's UnityXR plugin: https://github.com/ValveSoftware/unity-xr-plugin#QuickStart
+- Microsoft's Mixed Reality Toolkit (MRTK) is also a good starting point: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/
 
-# 6. Configure for the Meta Quest SDK
+# 5. Configure for the Meta Quest SDK
 
 - Create a 3D Core project.
 - For developing extended reality content, we can either use the Unity XR Interaction Toolkit or the Meta XR SDK. We'll use the Meta XR SDK.
-- Go to the Unity AssetStore and install the Meta XR All-in-One SDK at https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657 and open it in Unity. You will need to install it in the Package Manager window that opens, and will then need to restart your editor. Once you do, you can find the SDK in the Packages folder of the Project Tab. 
+- Go to the Unity Asset Store and install the Meta XR All-in-One SDK at https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657 and open it in Unity. You will need to install it in the Package Manager window that opens, and will then need to restart your editor. Once you do, you can find the SDK in the Packages folder of the Project Tab. 
 - Open the File/Build Profiles window. Under Platform, select Android and then press the Switch Platform button.
 - Open Edit/Project Settings, and select XR Plug-in Management. 
 - Install XR Plugin Management. In the Windows, Mac, and Linux Settings tab, select either Oculus or Open XR (we'll use Open XR). 
@@ -58,3 +60,9 @@ What should you do over the break is go to https://learn.unity.com/ and try a fe
 - When you have a scene that you like, save it and add it to your Build Settings.
 - Connect a previously configured Quest 3. Make sure it is set to the device you plan to build to. Click Build and Run.
 - More details can be found here: https://unity.com/blog/engine-platform/get-started-developing-for-quest-3-with-unity and https://developers.meta.com/horizon/documentation/unity/unity-development-overview/
+
+
+# 6. Install and Try Some SDKs
+
+- Mapbox AR https://www.mapbox.com/unity
+- Google Geospatial Creator https://developers.google.com/ar/geospatialcreator
