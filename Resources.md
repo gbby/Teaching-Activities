@@ -130,6 +130,23 @@
 - Esri's open data hub https://openhub-esrica-apps.opendata.arcgis.com/
 - Canadian Statistical Geospatial Explorer tool https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020010-eng.htm
 
+# SQL and Data Analysis
+
+- The Beginner's Guide to Databases https://read.technically.dev/p/the-beginners-guide-to-databases
+- Querynomicon https://gvwilson.github.io/querynomicon/
+- Database of databases https://dbdb.io/
+- SQL Tips and Tricks https://github.com/ben-nour/SQL-tips-and-tricks
+- SQL Style Guide https://www.sqlstyle.guide/
+- drawDB https://drawdb.vercel.app/
+- SQL Workbench https://sql-workbench.com/
+- SQL Music Store Analysis https://github.com/ritik23076/SQL_Music_Store_Analysis/
+- SQL Island game https://medium.com/@trvlingteacher/sql-island-a-fun-way-to-learn-sql-e0cec7cce458
+- SQL Noir game https://www.sqlnoir.com/
+- SQL Murder Mystery https://mystery.knightlab.com/
+- SQL Games https://www.sqlnoir.com/blog/games-to-learn-sql
+- Pandas vs SQL https://towardsdatascience.com/pandas-vs-sql-compared-with-examples-3f14db65c06f/
+- IBIS for turning SQL into Python dataframes https://ibis-project.org/
+	
 # Open Data Sources
 
 ## Public Open Data
