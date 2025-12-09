@@ -1,19 +1,51 @@
-- [ ] Go through BUSI4590 and INFR4599
-
 # Professional Resources
 
-## Portfolio Development
-"When hiring analysts, there is one thing that catches my attention every time I see it on a resume: A personal blog of analysis on public data. It’s not that the existence of a blog is a signal; it’s that blogs give you an immediate glimpse of the type of analyst their author is. Are they drawn to machine learning or statistical projects? Do they focus on data collection and cleanup? Are they curious problem solvers, and see data as an interrogative means to an inquisitive end? Blogs also expose how clever they are as an analyst, how crisp they are as a communicator, and a bit about their style and personality along the way... 
+## Jobs and Internships
+If you plan to go on the data job market, there are a bunch of things you should be aware of. Pay attention to the language that is used in job ads. What skills are they asking for? What pay are they offering? The data job market is tough. You will compete against people with fake credentials, more experience, better grades, more advanced skills... the best thing you can do is try to stand out. If you don't have the requisite experience, it doesn't hurt to contact the recruiter or company and make yourself available - maybe there is a more junior position available! Don't lie about your professional experience, but you shouldn't discount the work you've done in courses, and you should be developing a portfolio that helps you stand out. More on that below.
 
-Like design portfolios, an analytical portfolio would be a short exhibition of professional work. It would walk through a few projects the analyst completed, and share the context behind different problems, how they solved them, and the impact of their efforts. It could explain their thought process and their analytical wanderings. They could include partially redacted charts, slides, and dashboards that they built." - Benn Stancil, Chief Analytics Officer at Mode
-https://benn.substack.com/p/analysts-should-have-portfolios 
+### Data Job Boards
+- https://jobs.datavisualizationsociety.org/
+- https://www.teamworkonline.com/
+
+### Internships
+- https://datainternships.co/
+- https://www.sfchronicle.com/projects/about-the-devhub-hearst-newspapers/
+
+### Interview Prep
+- https://book.thedatascienceinterviewproject.com/
+- https://www.interviewquery.com/interview-guides/google-data-scientist
+- https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c
+- https://mandyliu.substack.com/p/why-youre-failing-non-technical-data
+
+### Certifications
+- https://www.ibcs.com/seminar/ibcs-certified-analyst/
+
+### Misc Information
+- https://nightingaledvs.com/how-to-get-a-job/
+- https://nightingaledvs.com/what-data-job-descriptions-tell-us/
+- https://techtalent.ca/
+- https://www.ontariotechu.ca/employmentreadiness
+- https://www.datacamp.com/webinars
+- https://github.com/Cghlewis/freelancing_resources
+- https://salaryaftertax.com/cost-of-living-calculator/canada/toronto
+- https://schoolofcities.github.io/venture-capital-canada/
+- https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/
+
+### Data Competitions
+- https://scholars.esri.ca/students/eys/eys-competition/
+- https://www.unb.ca/fredericton/management/ibec/data-challenge.html
+- https://technationcanada.ca/en/events/ai-equity-data-challenge/
+
+## Portfolio Development
+"When hiring analysts, there is one thing that catches my attention every time I see it on a resume: A personal blog of analysis on public data. It’s not that the existence of a blog is a signal; it’s that blogs give you an immediate glimpse of the type of analyst their author is. Are they drawn to machine learning or statistical projects? Do they focus on data collection and cleanup? Are they curious problem solvers, and see data as an interrogative means to an inquisitive end? Blogs also expose how clever they are as an analyst, how crisp they are as a communicator, and a bit about their style and personality along the way... Like design portfolios, an analytical portfolio would be a short exhibition of professional work. It would walk through a few projects the analyst completed, and share the context behind different problems, how they solved them, and the impact of their efforts. It could explain their thought process and their analytical wanderings. They could include partially redacted charts, slides, and dashboards that they built." 
+- Benn Stancil, Chief Analytics Officer at Mode https://benn.substack.com/p/analysts-should-have-portfolios 
 
 - This might be very basic to those of you who have web or graphic design experience, or who already have your own websites, but it's not designed for you. This tutorial is really designed for any of you who doesn't have a clue how to start. It could be an entire course, in fact, so compressing it into a short tutorial won't get you far, but I want to show you how easy it is to get up and running with a very simple portfolio. 
 
-- Here's what I'm going to cover. I'm not using slides, as I'm going to post this entire tutorial, links and all, to Canvas:
+- Here's what is in this instructional:
   - The basics and good design practices of building a simple portfolio with squarespace
   - What to include
-  - How to build a portfolio with plain old links and a public google/dropbox folder
+  - How to build a portfolio
   - Things to avoid
 
 ### Getting Started
@@ -55,7 +87,7 @@ https://benn.substack.com/p/analysts-should-have-portfolios
 - You can use screenshots in some cases.
 - Your preview images should be high quality and evocative!
 
-### Squarespace Instructions
+### Squarespace Portfolios
 - Ok... let's consider what it would take to build a simple portfolio with squarespace. I promise you that I'm not getting paid like all those goofball youtubers and podcasters!
 - Sign up for a Squarespace account by clicking on "Get Started" at the top of https://www.squarespace.com/
 - There are lots of good youtube videos that show how to set up Squarespace portfolio websites: https://www.youtube.com/results?search_query=squarespace+portfolio
@@ -70,18 +102,18 @@ https://benn.substack.com/p/analysts-should-have-portfolios
   - Click + to add a sub-page or click an existing sub-page, then click Edit to add your own content.
   - Add and edit more sub-pages until your Portfolio Page is complete.
 
-### Videos
+#### Videos
 - I'd consider adding videos instead of images to a portfolio. This Youtube instructional shows you how to do this with Squarespace: https://www.youtube.com/watch?v=H_CycnOu6b0
 - Use videos instead of pics when possible, and you can upload to either vimeo or youtube.
 - Here's an example of work from my former student who ended up with a job as a UX designer at IBM based on the strength of her projects https://www.youtube.com/watch?v=6uCsjyN5RQc
 - The best tool for creating a video based on a screencast of your own content, in which you narrate over top of a walk-through, is OBS. Here's a great beginner's instructional that will get you started: https://www.youtube.com/watch?v=jKgM18lOsr4
 
-### Other Things to Know
+#### Other Things to Know
 - I'd recommend purchasing a domain if you want to be taken seriously in the job market or if you know you are going to be a professional designer. With Squarespace, you can do so following these instructions: https://www.squarespace.com/how-to/buy-a-domain
 - What is lorem ipsum text? Use it for iterating, but make sure it's gone before sharing. https://loremipsum.io/
 - Test on different browser configurations!
 
-### Squarespace Drawbacks
+#### Squarespace Drawbacks
 - Squarespace is not cheap. It will cost you approximate $20-$25 per month, compared to $5 per month for normal hosting.
 - If you transfer off the platform later, expect to pay to move your domain.
 - Dynamic site content isn't really available. If you want to build web apps or interactives, you're not going to be hosting them on squarespace.
@@ -128,28 +160,4 @@ https://benn.substack.com/p/analysts-should-have-portfolios
 - Zan Armstrong https://www.zanarmstrong.com/
 - William Davis http://www.formerspatial.com/
 - Jason Davies https://www.jasondavies.com/
-- Tulp Interactive http://tulpinteractive.com/  
-
-## Jobs and Internships
-- https://www.sfchronicle.com/projects/about-the-devhub-hearst-newspapers/
-
-### Data Job Boards
-- https://jobs.datavisualizationsociety.org/
-- https://www.teamworkonline.com/
-
-### Internships
-- https://datainternships.co/
-
-### Interview Prep
-- https://book.thedatascienceinterviewproject.com/
-- https://www.interviewquery.com/interview-guides/google-data-scientist
-- https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c
-
-### Certifications
-- https://www.ibcs.com/seminar/ibcs-certified-analyst/
-
-### Misc Information
-- https://techtalent.ca/
-- https://www.ontariotechu.ca/employmentreadiness
-- https://www.datacamp.com/webinars
-- https://github.com/Cghlewis/freelancing_resources
+- Tulp Interactive http://tulpinteractive.com/
