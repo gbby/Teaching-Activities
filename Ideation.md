@@ -1,6 +1,6 @@
 # Ideation
 
-Open this Miro board: https://miro.com/app/board/uXjVJGiqC-w=/?share_link_id=890110857589
+Open the Miro board linked on the Canvas page for the week.
 
 The goal of this activity will be to help us examine whether there are themes that turn up when we compare and contrast our peer stories with each other. 
 
@@ -16,8 +16,6 @@ This will be our organizing strategy:
 - Format/media (i.e. storytelling; video; 1-page fact sheet) in orange.
 
 Our first step will be to get stickies up on the board. We're using a miro board, but we might also do this with actual sticky notes - a strategy that is highly recommended in information design.
-
-Here's an example from last year for reference: https://miro.com/app/board/uXjVLaV99ak=/?share_link_id=56376634388
 
 Once our large board is finished, go into groups of 5 or 6 with the people around you and create your own ideation layer separate from the group one.
 - Use the same 5 main stickies.
