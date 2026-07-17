@@ -38,6 +38,12 @@
 - Canva https://www.canva.com/templates/?query=storyboard-template
 - Storyboarder https://wonderunit.com/storyboarder/
 
+## Video Production
+- Data Gif maker https://datagifmaker.withgoogle.com/
+- Making visualization gifs https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
+- OBS for video recording https://obsproject.com/
+- Shotcut for video editing https://www.shotcut.org/
+
 ## 3D
 
 - Python library for .stl files https://github.com/WoLpH/numpy-stl
@@ -49,7 +55,9 @@
 - Color Buddy https://color-buddy.netlify.app/
 - Regenbogen palettes for visualization https://simson.io/regenbogen/
 - Adobe Color Wheel https://color.adobe.com/create/color-wheel/ 
-- Viz Palette https://projects.susielu.com/viz-palette 
+- Viz Palette https://projects.susielu.com/viz-palette
+- Colour picker https://obumbratta.com/colour
+- CuspHanger https://meodai.github.io/cusphanger/
 - I Want Hue https://medialab.github.io/iwanthue/ 
 - Color Brewer https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 
 - Color Converter http://colormine.org/color-converter 
@@ -79,8 +87,6 @@
 - Jupyter templates https://github.com/xtreamsrl/jupytemplate
 - Sanddance https://sanddance.azurewebsites.net/beachPartyApp/BeachPartyApp.html
 - Convert images of tables into a csv https://github.com/artperrin/image2csv\#convert-an-image-of-numbers-to-a-csv-file
-- Data Gif maker https://datagifmaker.withgoogle.com/
-- Making visualization gifs https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
 - Canadian statistical geospatial explorer https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census\&language=EN\&DGUID=2021A000011124
 - Gleamviz for epidemic modeling http://www.gleamviz.org/
 - Deneb (Vega) for Power BI https://github.com/deneb-viz/deneb
