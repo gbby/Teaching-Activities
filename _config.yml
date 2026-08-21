@@ -1,1 +1,4 @@
 include: [".md"]
+
+kramdown:
+  input: GFM
