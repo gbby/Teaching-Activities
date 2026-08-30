@@ -1,5 +1,7 @@
 # 1: Introduction to Cognitive Mapping
 
+This exercise draws extensively on Kevin Lynch's method of *cognitive mapping*, which you will learn about when you read the selection from his book "The Image of the City."
+
 Organize yourselves into small groups. Grab some pencil crayons and paper. Individually, sketch a "food tour" of some part of the city where you live (or the city where you're from). Your tour should include a route connecting three of your favourite restaurants or places to get food. 
 
 Constraints and Design Considerations:
@@ -37,6 +39,7 @@ Learning to work with Google's mapping/GIS platforms will give you very powerful
 - Add and label placemarks
 - Add a path
 - Add a polygon to cluster a bunch of placemarks
+![Cognitive Map in Google Earth](Images/google.png)
 - Try the slideshow option
 - Export a .kml file and load it in another tool like https://geojson.io/ or QGIS (drag it into your layers panel)
 
