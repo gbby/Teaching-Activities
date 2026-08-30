@@ -9,7 +9,7 @@ Statistics Canada, formed in 1971, is the agency of the Government of Canada com
 - Click on "GeoSearch" under the search bar https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census&language=EN&DGUID=2021A000011124
 - Change the geographic region to either Durham or Oshawa. Note the difference between a few of the categories, though. A "census metropolitan area" (CMA) is a grouping of census subdivisions comprising a large urban area (the "urban core") and those surrounding "urban fringes" with which it is closely integrated. To become a CMA, an area must register an urban core population of at least 100,000 at the previous census. Oshawa can be selected as either a CMA or a census subdivision for the Regional Municipality of Durham census division. Different datasets are available for different geospatial areas.
 - Look at the Health Regions tab and select Durham Regional Health Units.
-![Alt text here](Images/durham.png)
+![Statistics Canada GeoSearch interface](Images/durham.png)
 - Click on the 2021 Census Profile Table, which is the most comprehensive data view of the Durham Regional Health Units https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0&DGUIDlist=2022A00073530&SearchText=Durham%20Regional%20Health%20Unit
 
 # 3: Additional Resources
