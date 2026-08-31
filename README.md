@@ -9,6 +9,10 @@ While some of the tutorials are general enough to be used across a variety of di
 - https://gbby.github.io/Teaching-Activities/Peer%20Story.html
 - https://gbby.github.io/Teaching-Activities/Visual%20Brainstorming.html
 - https://gbby.github.io/Teaching-Activities/Deceptive%20Infographic.html
+- https://github.com/gbby/Teaching-Activities/blob/main/Python_Visualization_Tutorial.ipynb
+- https://github.com/gbby/Teaching-Activities/blob/main/Nightingale.ipynb
+- https://github.com/gbby/Teaching-Activities/blob/main/Minard.ipynb
+- https://github.com/gbby/Teaching-Activities/blob/main/Snow.ipynb
 
 ## Geospatial Visualization
 - https://gbby.github.io/Teaching-Activities/Cognitive%20Mapping.html
