@@ -1,5 +1,10 @@
-# Visualization Tools
+# Sections
+- [Visualization Tools](#Visualization-Tools)
+- [Chart Selection Tools](#Chart-Selection-Tools)
+- [Geospatial Tools and Resources](#Geospatial-Tools-and-Resources)
+- [Open Data Sources](#Open-Data-Sources)
 
+# Visualization Tools
 ## General
 
 - Power BI https://app.powerbi.com/
