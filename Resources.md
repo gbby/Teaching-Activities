@@ -5,7 +5,7 @@
 - [SQL and Data Analysis](#sql-and-data-analysis)
 - [Open Data Sources](#open-data-sources)
 
-# <a id="visualization-tools"></a>Visualization Tools
+# <a id="visualization-tools">Visualization Tools</a>
 ## General
 
 - Power BI https://app.powerbi.com/
@@ -97,7 +97,7 @@
 - Gleamviz for epidemic modeling http://www.gleamviz.org/
 - Deneb (Vega) for Power BI https://github.com/deneb-viz/deneb
 
-# <a id="chart-selection-tools"></a>Chart Selection Tools
+# <a id="chart-selection-tools">Chart Selection Tools</a>
 
 - From Data to Viz https://www.data-to-viz.com/
 - The Python Graph Gallery https://python-graph-gallery.com/
@@ -114,7 +114,7 @@
 - Article on expert choices: https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc
 - Great YouTube series on chart types: https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
 
-# <a id="geospatial-tools-and-resources"></a>Geospatial Tools and Resources
+# <a id="geospatial-tools-and-resources">Geospatial Tools and Resources</a>
 
 ## General
 
@@ -142,7 +142,7 @@
 - Esri's open data hub https://openhub-esrica-apps.opendata.arcgis.com/
 - Canadian Statistical Geospatial Explorer tool https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020010-eng.htm
 
-# <a id="sql-and-data-analysis"></a>SQL and Data Analysis
+# <a id="sql-and-data-analysis">SQL and Data Analysis</a>
 
 - The Beginner's Guide to Databases https://read.technically.dev/p/the-beginners-guide-to-databases
 - Querynomicon https://gvwilson.github.io/querynomicon/
@@ -159,7 +159,7 @@
 - Pandas vs SQL https://towardsdatascience.com/pandas-vs-sql-compared-with-examples-3f14db65c06f/
 - IBIS for turning SQL into Python dataframes https://ibis-project.org/
 	
-# <a id="open-data-sources"></a>Open Data Sources
+# <a id="open-data-sources">Open Data Sources</a>
 
 ## Public Open Data
 
