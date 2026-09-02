@@ -1,7 +1,6 @@
 include: [".md"]
 
-markdown: kramdown
-kramdown:
-  input: GFM                    # Forces GitHub Flavored Markdown (tables, strikethrough, etc.)
-  auto_ids: true                # Automatically creates id="open-data-sources" for headers
-  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"] # Replaces your "SMART" option
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
