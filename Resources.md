@@ -17,7 +17,7 @@
 - Mode https://modeanalytics.com/
 - Truben table editor https://truben.no/table/
 - Plotly Dash https://plot.ly/dash/
-- Apache's superset tool for dashboards http://superset.apache.org/
+- Apache's Superset http://superset.apache.org/
 
 ## Infographics and Sketching
 
@@ -71,6 +71,7 @@
 
 ## Miscellaneous
 
+- Plot Parade https://plotparade.com/  
 - Visual statistics on digital texts http://voyant-tools.org/
 - Palladio https://hdlab.stanford.edu/palladio/
 - NodeXL https://nodexl.com/
@@ -90,6 +91,16 @@
 - Canadian statistical geospatial explorer https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census\&language=EN\&DGUID=2021A000011124
 - Gleamviz for epidemic modeling http://www.gleamviz.org/
 - Deneb (Vega) for Power BI https://github.com/deneb-viz/deneb
+
+## Tool Selection Resources
+
+- https://yanouski.com/work/dataviz-tools-network/
+- https://github.com/fasouto/awesome-dataviz
+- https://datavisualizationsociety.org/resource-library/
+- https://researchguides.library.yorku.ca/datavisualization/choosingtools
+- http://selection.datavisualization.ch/
+- http://www.cs.ubc.ca/group/infovis/resources.shtml
+- http://www.storytellingwithdata.com/blog/2019/1/24/new-year-new-tools
 
 # Chart Selection Tools
 
@@ -124,6 +135,7 @@
 
 ## Geospatial Data
 
+- Free map tiles https://googlemapsmania.blogspot.com/2026/07/free-map-tiles-for-everyone.html
 - Durham Region open data portal https://opendata.durham.ca/ and https://opendata.durham.ca/search?q=shapefile
 - Ontario Tech spatial data resources https://guides.library.ontariotechu.ca/geodata
 - U of T map and data library resources https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/2016/geo
