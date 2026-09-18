@@ -94,11 +94,13 @@
 
 ## Tool Selection Resources
 
+- http://chartmaker.visualisingdata.com/
 - https://yanouski.com/work/dataviz-tools-network/
 - https://github.com/fasouto/awesome-dataviz
 - https://datavisualizationsociety.org/resource-library/
 - https://researchguides.library.yorku.ca/datavisualization/choosingtools
 - http://selection.datavisualization.ch/
+- http://www.cs.ubc.ca/group/infovis/resources.shtml
 - http://www.cs.ubc.ca/group/infovis/resources.shtml
 - http://www.storytellingwithdata.com/blog/2019/1/24/new-year-new-tools
 
@@ -123,6 +125,9 @@
 
 ## General
 
+- QGIS https://www.qgis.org/
+- Leaflet http://www.leafletjs.com
+- Carto https://www.carto.com/
 - Tilegrams https://pitchinteractiveinc.github.io/tilegrams/
 - Morphocode https://explorer.morphocode.com/
 - Leafmap https://github.com/giswqs/leafmap\#welcome-to-leafmap
@@ -132,9 +137,11 @@
 - Exhaustive list of geospatial data sources https://vlckel.notion.site/vlckel/a360dea317234868a0f7cfb1ef249843?v=2923f79780214ec390b9f0fefbc1c002
 - Informative old thread about where to get geo files https://stackoverflow.com/questions/17267248/how-where-do-i-get-geojson-data-for-states-provinces-and-administrative-region
 - Geospatial visualization tools http://dh.matrix.msu.edu/research/geospatial-visualizations/- Spatial Statistics for Data Science: Theory and Practice with R https://www.paulamoraga.com/book-spatial/
+- Geographical Thinking Podcast https://resources.esri.ca/geographical-thinking-podcast
 
 ## Geospatial Data
 
+- GIS datasets https://freegisdata.rtwilson.com/
 - Free map tiles https://googlemapsmania.blogspot.com/2026/07/free-map-tiles-for-everyone.html
 - Durham Region open data portal https://opendata.durham.ca/ and https://opendata.durham.ca/search?q=shapefile
 - Ontario Tech spatial data resources https://guides.library.ontariotechu.ca/geodata
