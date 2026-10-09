@@ -6,11 +6,11 @@ Datawrapper is a web-based platform with an easy-to-use interface for creating c
 
 ## Data Preparation
 
-For this exercise, we're going to use the Durham Region Health Neighbourhoods data that we have already explored. If we wanted to explore the question that I posed at the end of the Dataset Biography - whether Oshawa is healthy/affordable/prosperous/diverse for newcomers to Canada - how might we begin?
+For this exercise, we're going to use Durham Region's Health Neighbourhoods dataset. Let's explore whether Oshawa is a "healthy" city. How might we begin?
 
 - We'll start by exploring the table at https://opendata.durham.ca/datasets/29e0d68ac7234bb4b36fa4faf657fa01_46/explore
 ![Durham opendata.ca Health Neighbourhoods interface](Images/filter.png)
-- There are almost 100 indicators, and we can explore filtering them (e.g. for "Recent newcomers") in the interface, but it will probably make more sense to download the data and import it into a spreadsheet application like Google Sheets or Excel. I've already done this for you, and there is a sheet in the Shared Drive under /In-Class Exercises/Durham Health/ called "Health_Neighbourhoods_-_Data_Table."
+- There are almost 100 indicators, and we can explore filtering them (e.g. for "Recent newcomers") in the interface, but it will probably make more sense to download the data and import it into a spreadsheet application like Google Sheets or Excel. I've already done this for you, and there is a sheet in the Shared Drive under /In-Class Exercises/Idation/ called "Health Indicators"
 - Let's freeze the top row and create filters on columns B-G.
 - Next, we'll create a new sheet and name it Key Indicators.
 - Finally, we'll filter for indicators of interest (e.g. Recent newcomers; Life expectancy; Smoking; Cardiovascular disease) and year, then sort by MUNICIPALITY_NAME. In the Key indicators sheet, we'll copy in a column for MUNICIPALITY_NAME and add a new column with the specific indicator of interest (e.g. Recent newcomers) as the column name. Make sure that the sheet is sorted according to MUNICIPALITY_NAME. Copy the cells in the original VALUE column and paste them underneath the new column. There should be 50 cells. Repeat this for other indicators of interest. 
@@ -33,7 +33,7 @@ Now that we know how to use Datawrapper to begin an exploration into a research 
 ## Data Preparation
 
 - In the previous exercise, we filtered Durham Region health data to select indicators and time periods we were interested in, sorted them by municipality, and then plotted life expectancy and cardiovascular disease in a Datawrapper scatterplot to visually explore possible correlations.
-- If we were going to follow the original prompt - to see whether Oshawa is healthy for newcomers to Canada - we might also want to select only the neighbourhoods that fall above a threshold value for recent immigrants. We might select the top 25 neighbourhoods in this filtered column, and we'll find that they all share the attribute that more than 5% of their population is composed of residents who immigrated to Canada between 2011 and 2021. So, let's prune our key indicators data and then download it as a .csv file.
+- If we were going to follow the original prompt - to see whether Oshawa is a healthy city - we might also want to select only the neighbourhoods that fall above a threshold value for recent immigrants. We might select the top 25 neighbourhoods in this filtered column, and we'll find that they all share the attribute that more than 5% of their population is composed of residents who immigrated to Canada between 2011 and 2021. So, let's prune our key indicators data and then download it as a .csv file.
 
 ## Visualization
 
@@ -55,7 +55,7 @@ There are various tools you might use - Power BI, Tableau, Raw, Figma - to creat
 ## Knight Lab
 
 - If I know I'm going to be focusing on interactive stories in the browser and/or scrollytelling, Knight Lab at Northwestern University has developed a bunch of great prototyping tools https://knightlab.northwestern.edu/projects/
-- Let's try to translate our personalized story concepts and personas into a story map. Take a single thread related to recent newcomers from one of the four datasets we looked at in the *Dataset Biography* exercise. Develop a few charts that illuminate aspects of that thread, building on the ideas you came up with in the *Finding a Personal Story* exercise. Develop a story around 1 or more *Personas* you've created, and then lay it out in a basic StoryMap using Knight Lab's StoryMapJS tool https://storymap.knightlab.com/
+- Let's try to translate our personalized story concepts and personas into a story map. Take a single thread related to recent newcomers a dataset we've explored. Develop a few charts that illuminate aspects of that thread, building on the ideas you came up with in the *Finding a Personal Story* exercise. Develop a story around 1 or more *Personas* you've created, and then lay it out in a basic StoryMap using Knight Lab's StoryMapJS tool https://storymap.knightlab.com/
 - You can also use http://storyline.knightlab.com/ if you have historical data you can work with.
 
 ## AI Ideation
@@ -73,7 +73,7 @@ Now, let's leverage ChatGPT, Claude, or Gemini to explore new directions.
 
 Let's combine all of these methods in a more open-ended brainstorming process. 
 
-- Find one of the metrics we discussed in the Miro board https://miro.com/app/board/uXjVGPzKFOM=/
+- Find one of the metrics we discussed in the Miro board.
 - Look for and download appropriate data using Google Dataset Search https://datasetsearch.research.google.com/
 - Explore the resources sheet https://gbby.github.io/Teaching-Activities/Resources.html 
 - Go through the Chart Selection tools and find 3 appropriate chart types to explore your data visually and communicate its insights.
