@@ -51,6 +51,7 @@ This might be very basic to those of you who have web or graphic design experien
 - How to start: Take stock of your projects. You'll want to highlight the things you're good at and what differentiates you. Ask yourself: what are your strengths? What are your technical skills?
 - One good starting point is to look at how famous visualization people share their work https://lenagroeger.com/
 - Or look to students in data visualization courses to see how they share their work https://aemichalowski.github.io/Data-Visualization-Portfolio/
+- Or go through this https://kirellbenzi.com/writing/how-to-build-a-data-visualization-portfolio/
 - What to include in a project-based portfolio: course projects; internship work; software dev; concepts in development
 - Alternatively, you can include functional sections: writing examples; wireframing; teaching; UX/UI; project mgmt; photography and video; digital dev; interactives; game design; interaction design.
 - You should consider including unfinished stuff like sketches, wireframes, and even moodboards.
